@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-##### As a part of datascience internship, we deal with sevearl steps which are as follows:
+##### As a part of datascience internship, we deal with several steps which are as follows:
 ##### Step1: Import all the necessary libraries to your jupyter notebook or google colab.
 ##### Step2: Load the data and read the file which may be in .csv, .txt, .json etc format.
 ##### Step3: Perform data preprocessing for the data (pre-processing may include chadling null values etc)
